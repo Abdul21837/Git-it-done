@@ -5,7 +5,7 @@ An amazing APPLICATION
      BRAVO TO GIT-IT-DONE...........
 
 # Deployed
-Access the website at
+Access the website at  https://abdul21837.github.io/Git-it-done/
 
 # Description
 Git-it-done is an application that uses GitHub's API to search for open source projects with open issues and pull requests. Most of the HTML and CSS for this project is done and JavaScript that will retrieve and display repositories and their open issue counts when a user searches for them.
@@ -18,14 +18,14 @@ Git-it-done is an application that uses GitHub's API to search for open source p
 <li>jQuery</LI>
 
 # Steps to follow:
-<ol>Enter your user name</ol>
-<ol>Click on Get User</ol>
-<ol>View the list of open Repositories on the right side of the screen.</ol>
-<ol>Click on any one to link you to the Repo</ol>
-<ol>Click on the topic you want to search on and Git-it-done will let you know the topic you have done in your Repo</ol>
+1. Enter your user name
+2. Click on Get User
+3. View the list of open Repositories on the right side of the screen.
+4. Click on any one to link you to the Repo
+5. Click on the topic you want to search on and Git-it-done will let you know the topic you have done in your Repo
 
 # Preview
-![SCREENSHOT!](./image/Annotation 2022-02-28 205412.jpg)
+![SCREENSHOT!](https://image/Annotation 2022-02-28 205412.jpg)
 
 
 # Tutor
