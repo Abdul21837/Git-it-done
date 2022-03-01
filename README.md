@@ -18,14 +18,14 @@ Git-it-done is an application that uses GitHub's API to search for open source p
 <li>jQuery</LI>
 
 # Steps to follow:
-1. Enter your user name
-2. Click on Get User
-3. View the list of open Repositories on the right side of the screen.
-4. Click on any one to link you to the Repo
-5. Click on the topic you want to search on and Git-it-done will let you know the topic you have done in your Repo
+<ol>Enter your user name</ol>
+<ol>Click on Get User</ol>
+<ol>View the list of open Repositories on the right side of the screen.</ol>
+<ol>Click on any one to link you to the Repo</ol>
+<ol>Click on the topic you want to search on and Git-it-done will let you know the topic you have done in your Repo</ol>
 
 # Preview
-![PREVIEW!](image/Annotation 2022-02-28 205412.jpg)
+![SCREENSHOT!](./image/Annotation 2022-02-28 205412.jpg)
 
 
 # Tutor
