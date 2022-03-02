@@ -25,7 +25,7 @@ Git-it-done is an application that uses GitHub's API to search for open source p
 5. Click on the topic you want to search on and Git-it-done will let you know the topic you have done in your Repo
 
 # Preview
-![Annotation 2022-02-28 205412](https://user-images.githubusercontent.com/96844903/156248545-6a8c7291-e9ca-4c83-8ac3-da8091981082.jpg)
+(https://image/Annotation 2022-02-28 205412.jpg)
 
 
 # Tutor
